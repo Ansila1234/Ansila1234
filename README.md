@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Ansila S
 - 👀 I’m an aspiring Data Analyst
 - 🌱 I am passionate to learn latest data technologies to solve new problem-solving challenges.
-- 📫 How to reach me ...ansilas9189@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 reach out to me via email:ansilas9189@gmail.com
+-                        linkedin :https://www.linkedin.com/in/ansila-s-813324309/
 
 <!---
 Ansila1234/Ansila1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

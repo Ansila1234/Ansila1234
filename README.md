@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ansila S
+- Btech Graduate
 - 👀 I’m an aspiring Data Analyst
 - 🌱 I am passionate to learn latest data technologies to solve new problem-solving challenges.
 - 📫 reach out to me via email:ansilas9189@gmail.com

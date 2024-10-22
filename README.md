@@ -9,33 +9,28 @@ About Me 💻 📊
 
 🔍 Professional Skills:
 
-Languages & Tools: Proficient in Python, Power BI, SQL,Tableau and a suite of Python libraries including Pandas, NumPy, Matplotlib, Seaborn.
-Areas of Expertise: Data extraction, wrangling, cleaning, transformation, modeling, analysis, and visualization. 
-Visualization & Reporting: Skilled in crafting insightful reports and dashboards using Power BI and Tableau.
++ Languages & Tools: Proficient in Python, Power BI, SQL,Tableau and a suite of Python libraries including Pandas, NumPy, Matplotlib, Seaborn.
++ Areas of Expertise: Data extraction, wrangling, cleaning, transformation, modeling, analysis, and visualization. 
++ Visualization & Reporting: Skilled in crafting insightful reports and dashboards using Power BI and Tableau.
 
 🏆 Certifications:
 
-[Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/c9772bd2f5d387bcbba9d467b195110d63161ebcc8609618128b9f669aa5e223)
++ [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/c9772bd2f5d387bcbba9d467b195110d63161ebcc8609618128b9f669aa5e223)
 
-[SQL intermediate- HackerRank](https://www.hackerrank.com/certificates/c26f74be2ce7)
++ [SQL intermediate- HackerRank](https://www.hackerrank.com/certificates/c26f74be2ce7)
 
 
 Connect With Me 🌐
 
-[LinkedIn](https://www.linkedin.com/in/ansila-s-813324309/)
++ [LinkedIn](https://www.linkedin.com/in/ansila-s-813324309/)
 
-[Email](ansilas9189@gmail.com)
++ [Email](ansilas9189@gmail.com)
 
 -
 -
 -
 -
 -
--
--
--
--
--  
 
 <!---
 Ansila1234/Ansila1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

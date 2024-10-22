@@ -1,7 +1,8 @@
-- Hi there 👋,
--
--
--About Me 💻 📊
+ Hi there 👋,
+
+
+About Me 💻 📊
+
 👩🏻‍💻 I'm Ansila S, an aspiring Data Analyst.I am passionate about turning raw data into actionable insights and continuously improving my skills to make meaningful contributions in the field of data analytics. My journey in data analyst bridges the gap between theoretical knowledge and practical applications, evident in my diverse projects.
 
 🎓 Educational Background: I hold a bachelors of technology in Electronics & communication Engineering from Kerala Technical University. My transition into data  began with my final year project on Weed identification using deep machine learning and image processing techniques.
@@ -15,11 +16,14 @@ Visualization & Reporting: Skilled in crafting insightful reports and dashboards
 🏆 Certifications:
 
 [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/c9772bd2f5d387bcbba9d467b195110d63161ebcc8609618128b9f669aa5e223)
+
 [SQL intermediate- HackerRank](https://www.hackerrank.com/certificates/c26f74be2ce7)
 
 
 Connect With Me 🌐
+
 [LinkedIn](https://www.linkedin.com/in/ansila-s-813324309/)
+
 [Email](ansilas9189@gmail.com)
 
 -

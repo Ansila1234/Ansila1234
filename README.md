@@ -3,7 +3,7 @@
 
 About Me 💻 📊
 
-👩🏻‍💻 I'm Ansila S, an aspiring Data Analyst.I am passionate about turning raw data into actionable insights and continuously improving my skills to make meaningful contributions in the field of data analytics. My journey in data analyst bridges the gap between theoretical knowledge and practical applications, evident in my diverse projects.
+👩🏻‍💻 I'm Ansila S, a Data Analyst.I am passionate about turning raw data into actionable insights and continuously improving my skills to make meaningful contributions in the field of data analytics. My journey in data analyst bridges the gap between theoretical knowledge and practical applications, evident in my diverse projects.
 
 🎓 Educational Background: I hold a bachelors of technology in Electronics & communication Engineering from Kerala Technical University. My transition into data  began with my final year project on Weed identification using deep machine learning and image processing techniques.
 
